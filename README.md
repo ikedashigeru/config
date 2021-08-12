@@ -8,6 +8,13 @@ wget
 - Google 日本語入力  
 https://www.google.co.jp/ime/
 
+- Karabiner-Elements  
+https://karabiner-elements.pqrs.org/
+
+- ⌘英かな  
+https://ei-kana.appspot.com/  
+除外アプリ　ターミナル
+
 - Visual Studio Code  
 https://azure.microsoft.com/ja-jp/products/visual-studio-code/  
 Remote Development  
@@ -29,8 +36,11 @@ https://apps.apple.com/jp/app/magnet-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%
 https://www.notion.so/
 
 - MS Teams
+
 - Slack
-- Zoom
+
+- Zoom  
+https://zoom.us/download#client_4meeting
 
 # Others
 
