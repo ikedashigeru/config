@@ -1,7 +1,9 @@
 # Tools
 
 - Homebrew  
-https://brew.sh/index_ja
+https://brew.sh/index_ja  
+emacs  
+wget
 
 - Google 日本語入力  
 https://www.google.co.jp/ime/
