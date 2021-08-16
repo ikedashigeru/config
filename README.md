@@ -63,6 +63,8 @@ From App Store
 
 # Communication
 
+- TweetDeck
+
 - MS Teams
 
 - Slack
