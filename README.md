@@ -1,5 +1,7 @@
 # Tools
 
+- 1password
+
 - Homebrew  
 https://brew.sh/index_ja  
 emacs  
