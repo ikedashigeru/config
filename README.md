@@ -1,5 +1,8 @@
 # Tools
 
+- Chrome  
+https://www.google.com/intl/ja_jp/chrome/
+
 - 1password
 
 - Homebrew  
@@ -28,6 +31,9 @@ https://apps.apple.com/jp/app/skitch-%E6%92%AE%E3%82%8B-%E6%8F%8F%E3%81%8D%E8%BE
 - Magnet マグネット 作業スペースを整理整頓  
 https://apps.apple.com/jp/app/magnet-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88/id441258766
 
+- Jump Desktop  
+https://jumpdesktop.com/
+
 
 # Dev
 
@@ -51,6 +57,9 @@ https://www.notion.so/
 - Adobe Creative Cloud  
 https://www.adobe.com/jp/creativecloud/desktop-app.html
 
+- Whiteboard  
+From App Store
+
 
 # Communication
 
@@ -64,6 +73,9 @@ https://zoom.us/download#client_4meeting
 - Discord  
 https://discord.com/
 
+- LINE
+
+
 # Storage
 
 - Google Drive  
@@ -72,12 +84,17 @@ https://support.google.com/drive/answer/7329379#zippy=%2C%E3%83%91%E3%82%BD%E3%8
 - Dropbox  
 https://www.dropbox.com/ja/downloading
 
+
 # macOS Setup
 
 - MacのCopy & Pasteで書式スタイルを保ったままペーストしない設定  
 https://tomi-kun.hatenablog.com/entry/2020/12/30/000922
 
+
 # Others
+
+- TypeIt4Me  
+https://ettoresoftware.store/mac-apps/typeit4me/
 
 - Alinof Timer  
 https://apps.apple.com/jp/app/alinof-timer/id512464723
