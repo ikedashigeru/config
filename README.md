@@ -59,6 +59,9 @@ https://www.adobe.com/jp/creativecloud/desktop-app.html
 - Zoom  
 https://zoom.us/download#client_4meeting
 
+- Discord  
+https://discord.com/
+
 # Storage
 
 - Google Drive  
