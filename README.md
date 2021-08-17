@@ -16,10 +16,13 @@ https://www.google.co.jp/ime/
 
 - Karabiner-Elements  
 https://karabiner-elements.pqrs.org/
+![settings](https://user-images.githubusercontent.com/15690781/129811896-2fabd176-bb44-4af2-9b4a-c6186ac30d59.png)
 
 - ⌘英かな  
 https://ei-kana.appspot.com/  
-除外アプリ　ターミナル
+![settings01](https://user-images.githubusercontent.com/15690781/129811721-8be27330-91e9-4191-a0de-aad2028f2234.png)  
+![settings02](https://user-images.githubusercontent.com/15690781/129811806-02533cc4-f96d-42ce-9524-43c05151280e.png)
+
 
 - The Unarchiver  
 https://apps.apple.com/jp/app/the-unarchiver/id425424353
