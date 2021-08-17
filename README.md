@@ -87,7 +87,14 @@ https://support.google.com/drive/answer/7329379#zippy=%2C%E3%83%91%E3%82%BD%E3%8
 https://www.dropbox.com/ja/downloading
 
 
-# macOS Setup
+# settings
+
+![setup01](https://user-images.githubusercontent.com/15690781/129811446-c4d0d143-2a9c-48ba-b5d6-0e8c4e055333.png)
+
+![setup02](https://user-images.githubusercontent.com/15690781/129811636-2e447e0d-6415-4f1a-9570-fa8c0bfd8907.png)
+
+
+# Tips
 
 - MacのCopy & Pasteで書式スタイルを保ったままペーストしない設定  
 https://tomi-kun.hatenablog.com/entry/2020/12/30/000922
