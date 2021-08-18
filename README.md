@@ -9,6 +9,7 @@ https://www.google.com/intl/ja_jp/chrome/
 https://brew.sh/index_ja  
 emacs  
 wget  
+git-lfs  
 mysql client
 
 - Google 日本語入力  
