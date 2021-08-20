@@ -79,6 +79,9 @@ http://www.sequelpro.com/
 - Notion  
 https://www.notion.so/
 
+- GoodNotes 5
+From App Store
+
 - Adobe Creative Cloud  
 https://www.adobe.com/jp/creativecloud/desktop-app.html
 
