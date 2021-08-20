@@ -31,7 +31,8 @@ https://brew.sh/index_ja
 emacs  
 wget  
 git-lfs  
-mysql client
+mysql client  
+pip
 
 - Google 日本語入力  
 https://www.google.co.jp/ime/
