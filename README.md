@@ -134,6 +134,9 @@ https://tomi-kun.hatenablog.com/entry/2020/12/30/000922
 - TypeIt4Me  
 https://ettoresoftware.store/mac-apps/typeit4me/
 
+- Alfred - Productivity App for macOS
+https://www.alfredapp.com/
+
 - Alinof Timer  
 https://apps.apple.com/jp/app/alinof-timer/id512464723
 
