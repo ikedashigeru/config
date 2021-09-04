@@ -46,10 +46,20 @@ https://ei-kana.appspot.com/
 ![settings01](https://user-images.githubusercontent.com/15690781/129811721-8be27330-91e9-4191-a0de-aad2028f2234.png)  
 ![settings02](https://user-images.githubusercontent.com/15690781/129811806-02533cc4-f96d-42ce-9524-43c05151280e.png)
 
-
 - The Unarchiver  
 https://apps.apple.com/jp/app/the-unarchiver/id425424353
 S-JIS & 特殊文字ゴリゴリな Zipファイル解凍用
+
+- Alfred - Productivity App for macOS  
+https://www.alfredapp.com/
+  - Terminal Finder  
+  https://github.com/LeEnno/alfred-terminalfinder
+  - Colors  
+  http://www.packal.org/workflow/colors
+  - Github  
+  https://github.com/gharlan/alfred-github-workflow
+  - Network  
+  https://github.com/gharlan/alfred-github-workflow
 
 - Skitch  
 https://apps.apple.com/jp/app/skitch-%E6%92%AE%E3%82%8B-%E6%8F%8F%E3%81%8D%E8%BE%BC%E3%82%80-%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B/id425955336
@@ -133,9 +143,6 @@ https://tomi-kun.hatenablog.com/entry/2020/12/30/000922
 
 - TypeIt4Me  
 https://ettoresoftware.store/mac-apps/typeit4me/
-
-- Alfred - Productivity App for macOS  
-https://www.alfredapp.com/
 
 - Alinof Timer  
 https://apps.apple.com/jp/app/alinof-timer/id512464723
