@@ -59,7 +59,7 @@ https://www.alfredapp.com/
   - Github  
   https://github.com/gharlan/alfred-github-workflow
   - Network  
-  https://github.com/gharlan/alfred-github-workflow
+  https://github.com/mrodalgaard/alfred-network-workflow
 
 - Skitch  
 https://apps.apple.com/jp/app/skitch-%E6%92%AE%E3%82%8B-%E6%8F%8F%E3%81%8D%E8%BE%BC%E3%82%80-%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B/id425955336
