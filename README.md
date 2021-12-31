@@ -141,6 +141,9 @@ https://tomi-kun.hatenablog.com/entry/2020/12/30/000922
 
 # Others
 
+- fliqlo (スクリーンセーバー)  
+https://fliqlo.com/
+
 - TypeIt4Me  
 https://ettoresoftware.store/mac-apps/typeit4me/
 
