@@ -70,6 +70,9 @@ https://apps.apple.com/jp/app/magnet-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%
 - Jump Desktop  
 https://jumpdesktop.com/
 
+- Razer / azer-macos  
+https://github.com/1kc/razer-macos
+
 
 # Dev
 
