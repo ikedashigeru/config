@@ -86,7 +86,8 @@ https://www.docker.com/
 
 - Sequel Pro  
 http://www.sequelpro.com/
-
+- Sequel Ace (Proの後継)  
+https://apps.apple.com/jp/app/sequel-ace/id1518036000
 
 # Editor
 
