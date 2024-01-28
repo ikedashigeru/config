@@ -50,7 +50,7 @@ https://ei-kana.appspot.com/
 https://apps.apple.com/jp/app/the-unarchiver/id425424353
 S-JIS & 特殊文字ゴリゴリな Zipファイル解凍用
 
--Gapplin SVG画像ビューア  
+- Gapplin SVG画像ビューア  
 https://apps.apple.com/jp/app/gapplin/id768053424
 
 - Alfred - Productivity App for macOS  
