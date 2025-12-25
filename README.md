@@ -87,7 +87,7 @@ Awesome Emacs Keymap
 - Docker  
 https://www.docker.com/
 ```
-brew install --cask docker
+brew install colima docker
 ```
 
 - Sequel Pro  
