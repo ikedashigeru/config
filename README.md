@@ -86,6 +86,9 @@ Awesome Emacs Keymap
 
 - Docker  
 https://www.docker.com/
+```
+brew install --cask docker
+```
 
 - Sequel Pro  
 http://www.sequelpro.com/
