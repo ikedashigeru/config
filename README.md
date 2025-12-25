@@ -88,6 +88,8 @@ Awesome Emacs Keymap
 https://www.docker.com/
 ```
 brew install colima docker
+colima start
+brew services start colima
 ```
 
 - Sequel Pro  
